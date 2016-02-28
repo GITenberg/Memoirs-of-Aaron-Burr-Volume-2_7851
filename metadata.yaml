@@ -1,0 +1,37 @@
+_repo: Memoirs-of-Aaron-Burr-Volume-2_7851
+contributor:
+  creator:
+    editor:
+      agent_name: Davis, Matthew L. (Matthew Livingston)
+      aliases:
+      - Davis, M. L. (Matthew Livingston)
+      - Davis, Matthew Livingston
+      birthdate: 1773
+      deathdate: 1850
+      gutenberg_agent_id: '2556'
+      url: http://www.gutenberg.org/2009/agents/2556
+creator:
+  author:
+    agent_name: Burr, Aaron
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '2717'
+    url: http://www.gutenberg.org/2009/agents/2717
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Politics and government -- 1775-1865'
+- !lcsh 'Vice-Presidents -- United States -- Biography'
+- !lcsh 'Burr, Aaron, 1756-1836'
+- !lcsh 'United States -- Politics and government -- 1789-1809'
+- !lcc 'E300'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Personal narratives'
+title: Memoirs of Aaron Burr, Volume 2.
+url: http://www.gutenberg.org/ebooks/7851
